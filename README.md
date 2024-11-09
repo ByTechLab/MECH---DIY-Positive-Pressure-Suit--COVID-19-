@@ -2,7 +2,7 @@
     <img src="README_MD_IMG/diy-positive-pressure-suit-air-filtering-unit-front-view.JPG" alt="project photo">
 </div>
 
-Air purifier based X1C fume filtering system.
+DIY positive pressure suit ( server fan based )
 
 ### Read more at BYTECHLAB:
 
